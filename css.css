@@ -1,0 +1,30 @@
+.body {
+	padding : 0px;
+	margin : 0px;
+}
+
+.header {
+	background-color : black;
+	padding : 0px;
+	margin : 0px;
+	height : 50px;
+	width : 100%;
+	color : white;
+	display : flex;
+	justify-content: center;
+}
+
+.all {
+	display : flex;
+	background-color : #978E8E;
+	padding : 5px;
+	margin-top : 10px;
+	justify-content : space-around;
+	align-items: center;
+}
+
+footer {
+	background-color : #978E8E;
+	padding : 0px;
+	margin : 0px;
+}
